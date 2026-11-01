@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b9c0d1",
+    "produto": "Café",
+    "preco": 12.5,
+    "tags": ["quente", "manhã"],
+    "fornecedor": {
+      "nome": "CoopeCafé",
+      "cidade": "Dourados"
+    }
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b9c0d2",
+    "produto": "Pão de Queijo",
+    "preco": 8.9,
+    "tags": ["assado", "tarde"],
+    "fornecedor": {
+      "nome": "Padaria Central",
+      "cidade": "Campo Grande"
+    },
+    "estoque": 42
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b9c0d3",
+    "produto": "Suco de Laranja",
+    "preco": 9.75,
+    "tags": ["gelado", "natural"],
+    "fornecedor": {
+      "nome": "Fazenda Sol",
+      "cidade": "Dourados"
+    },
+    "volumeMl": 500
+  },
+  {
+    "_id": "65f1a2b3c4d5e6f7a8b9c0d4",
+    "produto": "Bolo de Cenoura",
+    "preco": 15,
+    "tags": ["doce", "caseiro"],
+    "fornecedor": {
+      "nome": "Doces da Vó",
+      "cidade": "Itaporã"
+    },
+    "cobertura": "chocolate"
+  }
+]

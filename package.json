@@ -1,0 +1,10 @@
+{
+  "name": "ptac-atividade04-11",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "api": "npm --prefix api-express run dev",
+    "web": "npm --prefix 06-componente-consumidor run dev",
+    "install:all": "npm --prefix api-express install && npm --prefix 06-componente-consumidor install"
+  }
+}
